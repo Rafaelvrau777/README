@@ -3,7 +3,7 @@
 
 🌎 I'm from Recife, PE - Brasil
 
- 💻 Studying Typescript
+ 
  
  👨🏽‍💻 computer engineering
 
