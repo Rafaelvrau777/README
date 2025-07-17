@@ -1,28 +1,51 @@
-## Hello! My name is Rafael Caetano👋
+<h1 align="left">Olá 👋 tudo bem?</h1>
 
+###
 
-🌎 I'm from Recife, PE - Brasil
+<p align="left">Me chamo Rafael Caetano. Sou estudante de Engenharia da Computação  e entusiasta da área de Tecnologia.</p>
 
- 
- 
- 👨🏽‍💻 computer engineering
+###
 
+<h2 align="left">Sobre mim</h2>
 
-<div style="display: inline_block"><br>
-  
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> 
+###
 
-##
- 
-<div style="display: inline_block"><br>
-  
-<div> 
- <a href="https://www.instagram.com/raffaael_87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "rafaelcaetanox0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-caetano-065838239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+<p align="left">👋 Olá, eu sou o Rafael Caetano.<br>🎓 Estudante de Engenharia da Computação na UNINASSAU.<br>💻 Trabalho com Python, Vue.js e versionamento de código com Git.<br>🌱 Estou aprendendo Análise de Dados, automação e metodologias ágeis.<br>💬 Pergunte-me sobre Python e Excel.</p>
+
+###
+
+<h6 align="left"></h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/raffael-caetano/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
+  </a>
+  <a href="rafaelcaetanox0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/raffaael_87/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rafaelvrau777/Rafaelvrau777/output/pacman-contribution-graph.svg">
+</picture>
+
+###
